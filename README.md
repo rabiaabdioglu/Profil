@@ -1,2 +1,2 @@
-# :squirrel:
-:squirrel:
+
+-:sunny: Bir şeyler yazmaya çalışıyorum..:computer:
