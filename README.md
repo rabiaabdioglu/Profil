@@ -16,5 +16,10 @@
 
 <p><p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaabdioglu&layout=compact)](https://github.com/rabiaabdioglu)
+<p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rabiaabdioglu&show_icons=true&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+      
+      
