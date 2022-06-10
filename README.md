@@ -45,7 +45,7 @@
 <p>
 
 
-<h3 align="left">Soon to learn</h3>
+<h3 align="left">Soon</h3>
 <p align="left">
 
   <a><img  src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> </a>
