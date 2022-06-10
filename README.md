@@ -9,7 +9,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Rabia Abdioglu" height="30" width="40" /></a><t>
 <a href="mailto:rabiabdglu@gmail.com" target="blank">
-<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"       alt="Rabia Abdioglu" height="30" width="40"/>
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"   align="center"    alt="Rabia Abdioglu" height="30" width="40"/>
 </a>
 
 -----
