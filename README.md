@@ -15,11 +15,7 @@
 <img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <p><p>
-
-<p align="center">
+     <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rabiaabdioglu&show_icons=true&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-      
-      
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaabdioglu&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+        </p>
