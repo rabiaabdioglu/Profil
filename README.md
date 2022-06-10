@@ -38,7 +38,7 @@
 </p>
 
 <p>
-     <p  align="right">
+     <p  align="left">
           <a href="https://github.com/rabiaabdioglu/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaabdioglu&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
