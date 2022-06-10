@@ -2,7 +2,7 @@
 -:sunny: Bir şeyler yazmaya çalışıyorum..:computer:
 
 ## Connect with me:
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/rabiaabdioglu/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Rabia Abdioglu" height="30" width="40" /></a>
