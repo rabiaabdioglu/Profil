@@ -12,18 +12,9 @@
          src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"
          alt="azzar" height="30"/></a>
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-
-
-
-
-
-
-
-
-
-
+<p><p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiaabdioglu&layout=compact)](https://github.com/rabiaabdioglu)
