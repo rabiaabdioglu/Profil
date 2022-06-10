@@ -10,9 +10,10 @@
    <a href="https://mailto:rabiabdglu@gmail.com" target="blank"><img align="center"
          src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"
          alt="azzar" height="30"/></a>
+      <p>
+<img align= "rigth" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+      </p>
 -----
-<p>
-<img align= "left" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <p>
 
