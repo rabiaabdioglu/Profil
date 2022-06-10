@@ -49,9 +49,9 @@
 <p align="left">
 
  ## Soon to learn : 
-<img  src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <a><img  src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> </a>
+  <a><img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
+  <a><img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
 </p>
 </p>
 
