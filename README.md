@@ -45,10 +45,9 @@
 <p>
 
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Soon to learn</h3>
 <p align="left">
 
- ## Soon to learn : 
   <a><img  src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> </a>
   <a><img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
   <a><img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
