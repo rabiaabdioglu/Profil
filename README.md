@@ -1,5 +1,5 @@
 
--:sunny: Bir şeyler yazmaya çalışıyorum..:computer:
+-:sunny: I'm..:computer:
 
 #### Connect with me:
 
@@ -8,10 +8,9 @@
 <a href="https://www.linkedin.com/in/rabiaabdioglu/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Rabia Abdioglu" height="30" width="40" /></a><t>
-   <a href="https://mailto:rabiabdglu@gmail.com" target="blank"><img align="center"
-         src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"
-         alt="azzar" height="30"/></a>
-  
+<a href="mailto:rabiabdglu@gmail.com" target="blank">
+<img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"       alt="Rabia Abdioglu" height="30" width="40"/>
+</a>
 
 -----
 
