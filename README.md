@@ -34,20 +34,6 @@
   <a> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  alt="css3"/> </a>
   <a> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  alt="css3"/> </a>
   <a> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  alt="css3"/> </a>
-
-</p>
-</p>
-
-
-
------
-
-<p>
-
-
-<h3 align="left">Soon</h3>
-<p align="left">
-
   <a><img  src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> </a>
   <a><img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> </a>
   <a><img src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> </a>
