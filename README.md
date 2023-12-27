@@ -1,5 +1,4 @@
 
--:sunny: Still trying to learn..:computer:
 
 
 #### Connect with me:
